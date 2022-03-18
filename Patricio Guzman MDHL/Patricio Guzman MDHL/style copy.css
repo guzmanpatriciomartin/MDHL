@@ -1,0 +1,14 @@
+body{  background-color: rgb(255, 255, 255);}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+header{display: flex; justify-content: flex-start; margin-top: 100px;
+width: 700px; margin-left: auto; margin-right: auto;}
+aside{width: 700px; margin-left: auto; margin-right: auto;}
+#logo {margin-right: 20px;margin-top: 13px;}
+.box { display: flex;justify-content: flex-start;}
+section{text-align: left;}
+section{margin-left: 20px;}
+#contactarticle {margin-left: 10px;}
+h2 { font-style: italic;}
+.parraf {margin-left: 10px;}

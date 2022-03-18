@@ -1,0 +1,13 @@
+body{background-color: cadetblue;}
+nav{display: flex; justify-content: center;}
+
+.box {display: flex;justify-content: center;}
+section{text-align: left;}
+a{
+    margin: 30px;
+    background-color: cornsilk;
+    padding: 3px;
+    border-radius: 8%;
+    border: 2px solid rgba(68, 212, 40, 0.24);
+    color: crimson;
+} 
